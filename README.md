@@ -1,0 +1,2 @@
+# RenameForKiCad
+KiCadで生成されたファイルをFusionPCB形式に変換するバッチファイル
